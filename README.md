@@ -9,9 +9,9 @@ El código en este repositorio se divide en varias funciones que se utilizan par
 - `calcularPromedio(numeros: List<Int>): Double` - Esta función toma una lista de números enteros y calcula su promedio.
 - `isPalindrome(cadena: String): Boolean` - Esta función comprueba si una cadena dada es un palíndromo.
 - `performOperation(a: Int, b: Int, operation: (Int, Int) -> Int): Int` - Esta función toma dos enteros y una función lambda que realiza una operación matemática. Devuelve el resultado de la operación.
-- `convertPersonToStudent(person: Person, studentId: String): Student` - Esta función convierte un objeto de tipo Person a un objeto de tipo Student.
+- `convertPersonToStudent(person: Persona, studentId: String): Estudiante` - Esta función convierte un objeto de tipo Person a un objeto de tipo Student.
 
-Además, se definen dos clases de datos, `Person` y `Student`, para representar a una persona y a un estudiante, respectivamente.
+Además, se definen dos clases de datos, `Persona` y `Estudiante`, para representar a una persona y a un estudiante, respectivamente.
 
 ## Cómo usar
 

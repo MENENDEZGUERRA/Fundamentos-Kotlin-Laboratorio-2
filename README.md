@@ -1,4 +1,4 @@
-# Kotlin Practice Exercises
+# Fundamentos Kotlin Laboratorio 2
 
 Este repositorio contiene varios ejercicios prácticos de Kotlin diseñados para ayudarme a reforzar mis habilidades y familiarizarme más con sus características únicas.
 
